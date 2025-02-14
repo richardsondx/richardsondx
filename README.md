@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I usually code with Next.js + Tailwindcss + ShadcnUI. But I've also worked with Ruby on Rails:
+I usually build apps with Next.js + Tailwindcss + ShadcnUI. But I've also worked with Ruby on Rails:
 - 🔭 I’m currently working on
 ▶️ [GitGlance](https://gitglance.co)
 - ✨ Other Projects I built:
