@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I usually build apps with Next.js + Tailwindcss + ShadcnUI. But I've also worked with Ruby on Rails:
+I usually build apps with Next.js + Tailwindcss + ShadcnUI. But I've also worked with Ruby on Rails for +12 years:
 - 🔭 I’m currently working on
 ▶️ [GitGlance](https://gitglance.co) | ▶️ [CheckMate ♟️](https://github.com/richardsondx/checkmate)
 - ✨ Other Projects I built:
