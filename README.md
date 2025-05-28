@@ -2,7 +2,7 @@
 
 I usually build apps with Next.js + Tailwindcss + ShadcnUI. But I've also worked with Ruby on Rails for +12 years:
 - 🔭 I’m currently working on
-▶️ [GitGlance](https://gitglance.co) | ▶️ [CheckMate ♟️](https://github.com/richardsondx/checkmate)
+▶️ [GitGlance](https://gitglance.co) | ▶️ [GitYears](https://gityears.com) | ▶️ [CheckMate ♟️](https://github.com/richardsondx/checkmate)
 - ✨ Other Projects I built:
 ▶️ [Hourandcode](https://hourandcode.com) | ▶️ [DebugPrompt](https://debugprompt.com) | ▶️ [Ideas Generator](https://ideas.richdackam.com)
 - 💳 I've worked a lot with Stripe API – I even made a [payment integration course](https://richdackam.gumroad.com/l/rdmbm?layout=profile)
