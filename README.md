@@ -38,6 +38,8 @@ I'm a Senior AI Engineer in venture capital at BoxOne Ventures and I run N Shipy
 * 🏡 **[Reeltour](https://reeltour.co)** – AI video tours for real estate listings
 * ☎️ **[JumpIn](https://jumpin.richdackam.com)** – One-click live call queue management
 * 🎓 **[Skolr](https://nshipyard.com/skolr)** – Batch enrollment engine to increase course conversions
+* 🌦️ **[SeasonSense](https://nshipyard.com/seasonsense) – AI-powered travel itinerary planner
+
 ---
 * 🔮 **[Spec Oracles](https://x.com/RichardsonDx/status/1927425733221142778)** – System for verifying AI reasoning against written specs
 * 🛡️ **[CheckMate](https://github.com/richardsondx/checkmate)** – Tool that forces AI code to justify itself against specs
@@ -56,6 +58,26 @@ I'm a Senior AI Engineer in venture capital at BoxOne Ventures and I run N Shipy
 * ⚡ **[IronCloud](https://ironcloud.richdackam.com/)** – Model compute, energy, and infrastructure trade-offs for AI systems
 * 🔋 **[Energy](https://energy.richdackam.com/)** – Explore energy systems, costs, and infrastructure scenarios
 
+## Previous Projects (⚓️)
+
+* 📡 Pingonce – Scheduler for automated HTTP requests
+* 🧩 Waterpost – Social media API built for developers
+* 🏠 Zonegoat – Find properties that match local regulations
+* ✅ CheckUp – Manage and track product acceptance criteria
+* 🌃 4am – Discover venues open until 4am in Toronto
+* 📝 Markdown Downloader – Chrome extension that converts HTML pages to Markdown
+* 📱 Reaxl – Generate iOS and Android apps with AI
+* 🎙️ Dubber – Dub content into 100+ languages automatically
+* 📊 Treepoll – The first micro-polling social network (Featured in The Next Web)
+* 🍔 Residently – Groupon-style deals for food delivery (socials and domains sold)
+* 📚 MyReater – Personalized book recommendation engine
+* ⏳ Timedlinks – Timed popup links for launches and promotions
+* 🐱 Jumpy Space Cat – Arcade cat game inspired by Flappy Bird (+16,000 players(
+* 🛍️ Railsview – Marketplace for buying and selling custom Rails themes
+* 🎨 CSS Parts – RichCSS Package manager for reusable CSS components (Waterloo Capstone Project Advisor)
+* 🧱 RichCSS – Object-oriented CSS framework
+* 📋 Quitrs – List of people who just left/quitted their jobs
+* 💘 Helpmedateyou – Share dating tips and advice anonymously
 
 <!--
 **richardsondx/richardsondx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
