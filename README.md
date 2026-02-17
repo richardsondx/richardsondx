@@ -37,6 +37,12 @@ I usually build SaaS with Next.js + Tailwindcss. But I've also worked with Ruby 
 * ☎️ **[JumpIn](https://jumpin.richdackam.com)** – One-click live call queue management
 * 🎓 **[Skolr](https://nshipyard.com/skolr)** – Batch enrollment engine to increase course conversions
 ---
+* 🔮 **[Spec Oracles](https://x.com/RichardsonDx/status/1927425733221142778)** – System for verifying AI reasoning against written specs
+* 🛡️ **[CheckMate](https://github.com/richardsondx/checkmate)** – Tool that forces AI code to justify itself against specs
+* 💳 **[Stripe Integration Course](https://richdackam.gumroad.com/l/rdmbm?layout=profile)** – Learn how to add payments and subscriptions to your app with Stripe API
+* ❤️ **[saas-subscription-helper](https://github.com/richardsondx/saas-subscription-helper)** – Open source helpers for managing SaaS subscriptions
+* 📊 **[usageflow](https://github.com/richardsondx/usageflow)** – Track and model product usage flows for apps
+* 🐞 **[CheckMate](https://github.com/richardsondx/checkmate)** – Open source version of the AI spec verification engine
 * 🔧 **[JSON](https://json.richdackam.com/)** – Simple JSON tools and utilities for fast data formatting and validation
 * 🧩 **[SkillAdapter](https://skilladapter.com/)** – Protocol for mapping agent roles to executable skills and tools
 * 🚇 **[Transit](https://transit.richdackam.com/)** – Explore and compare public transit routes and scenarios
