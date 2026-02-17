@@ -36,6 +36,18 @@ I usually build SaaS with Next.js + Tailwindcss. But I've also worked with Ruby 
 * 🏡 **[Reeltour](https://reeltour.co)** – AI video tours for real estate listings
 * ☎️ **[JumpIn](https://jumpin.richdackam.com)** – One-click live call queue management
 * 🎓 **[Skolr](https://nshipyard.com/skolr)** – Batch enrollment engine to increase course conversions
+---
+* 🔧 **[JSON](https://json.richdackam.com/)** – Simple JSON tools and utilities for fast data formatting and validation
+* 🧩 **[SkillAdapter](https://skilladapter.com/)** – Protocol for mapping agent roles to executable skills and tools
+* 🚇 **[Transit](https://transit.richdackam.com/)** – Explore and compare public transit routes and scenarios
+* 💰 **[Million](https://million.richdackam.com/)** – Calculator to plan and reach your financial freedom number
+* 🏠 **[HomeOrIndex](https://homeorindex.richdackam.com/)** – Decide between buying a home or investing in index funds
+* 💳 **[Debt](https://debt.richdackam.com/)** – Model and optimize debt repayment strategies
+* 📉 **[DCA](https://dca.richdackam.com/)** – Dollar-cost averaging simulator for long-term investing
+* 🎯 **[Choices](https://choices.richdackam.com/)** – Decision calculator for comparing life and financial trade-offs
+* ⚡ **[IronCloud](https://ironcloud.richdackam.com/)** – Model compute, energy, and infrastructure trade-offs for AI systems
+* 🔋 **[Energy](https://energy.richdackam.com/)** – Explore energy systems, costs, and infrastructure scenarios
+
 
 <!--
 **richardsondx/richardsondx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
