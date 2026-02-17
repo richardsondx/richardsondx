@@ -38,7 +38,7 @@ I'm a Senior AI Engineer in venture capital at BoxOne Ventures and I run N Shipy
 * 🏡 **[Reeltour](https://reeltour.co)** – AI video tours for real estate listings
 * ☎️ **[JumpIn](https://jumpin.richdackam.com)** – One-click live call queue management
 * 🎓 **[Skolr](https://nshipyard.com/skolr)** – Batch enrollment engine to increase course conversions
-* 🌦️ **[SeasonSense](https://nshipyard.com/seasonsense) – AI-powered travel itinerary planner
+* 🌦️ **[SeasonSense](https://nshipyard.com/seasonsense)** – AI-powered travel itinerary planner
 
 ---
 * 🔮 **[Spec Oracles](https://x.com/RichardsonDx/status/1927425733221142778)** – System for verifying AI reasoning against written specs
