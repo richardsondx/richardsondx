@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-I'm a Senior AI Engineer in venture capital at BoxOne Ventures and I run N Shipyard, a solo R&D studio.
+Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Captain of endless prototypes. Obsessed with turning problems into prototypes (send help) 😅
 
+- Senior AI Engineer in Venture Capital at Boxone Venture
 - 🌱 I’m currently diving deep into AI stuff and I share what I learn on my youtube [Codewithrich](https://www.youtube.com/@codewithrich)
 - 🆓 I'm an Open Source Contributor: [Open Deep Research](https://github.com/nickscamara/open-deep-research)
 - 🔮 I created [Spec Oracles](https://x.com/RichardsonDx/status/1927425733221142778) while working on [CheckMate](https://github.com/richardsondx/checkmate)
 - 💳 I've worked a lot with Stripe API – Here's my [payment integration course](https://richdackam.gumroad.com/l/rdmbm?layout=profile)
 - 🤖 I run AI Founders Club on Skool [AIFC](https://joinaifounders.club/)
 - ❤️ Support my opensource projects : [saas-subscription-helpder](https://github.com/richardsondx/saas-subscription-helper) |  [usage-flow](https://github.com/richardsondx/usageflow) | [CheckMate](https://github.com/richardsondx/checkmate)
+- 🚀 Building in public on X [@Richardsondx](https://x.com/RichardsonDx)
  
 ## Current Projects (N Shipyard 🚢)
 
