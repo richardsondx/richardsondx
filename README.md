@@ -2,7 +2,7 @@
 
 Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Captain of endless prototypes. Obsessed with turning problems into prototypes (send help) 😅
 
-- Senior AI Engineer in Venture Capital at Boxone Venture
+- 🤖 Senior AI Engineer in Venture Capital at Boxone Venture
 - 🌱 I’m currently diving deep into AI stuff and I share what I learn on my youtube [Codewithrich](https://www.youtube.com/@codewithrich)
 - 🆓 I'm an Open Source Contributor: [Open Deep Research](https://github.com/nickscamara/open-deep-research)
 - 🔮 I created [Spec Oracles](https://x.com/RichardsonDx/status/1927425733221142778) while working on [CheckMate](https://github.com/richardsondx/checkmate)
