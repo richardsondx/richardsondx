@@ -13,6 +13,7 @@ Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Cap
  
 ## Current Projects (N Shipyard 🚢)
 
+* 🪲 **[Beetlebot](https://github.com/richardsondx/beetlebot)** – Autonomous personal assistant for your free time
 * 🧠 **[8nodes](https://8nodes.dev)** – n8n workflow generator for building structured automations fast
 * 🧬 **[Raregap](https://raregap.ai)** – Discover research gaps in rare diseases in minutes
 * 💸 **[Meterwise](https://meterwise.co)** – Track, cap, and optimize AI inference spend
