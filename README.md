@@ -15,6 +15,7 @@ Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Cap
 
 
 * 🧠 **[8nodes](https://8nodes.dev)** – n8n workflow generator for building structured automations fast
+* 👥 **[Teamboard](https://teamboard.co)** – A way to bring LLM councils in your threads and canvas
 * 🧬 **[Raregap](https://raregap.ai)** – Discover research gaps in rare diseases in minutes
 * 🪲 **[Beetlebot](https://github.com/richardsondx/beetlebot)** – Autonomous personal assistant for your free time
 * ⭕️ **[IronLark](https://github.com/richardsondx/IronLark)** - Lightweight CLI agent that brings AI directly into any SSH session
