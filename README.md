@@ -65,6 +65,8 @@ Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Cap
 * 🎯 **[Choices](https://choices.richdackam.com/)** – Decision calculator for comparing life and financial trade-offs
 * ⚡ **[IronCloud](https://ironcloud.richdackam.com/)** – Model compute, energy, and infrastructure trade-offs for AI systems
 * 🔋 **[Energy](https://energy.richdackam.com/)** – Explore energy systems, costs, and infrastructure scenarios
+* 🌍 **[Institution Iceberg]()** - Select a visible symptom of underdevelopment it traces the causal chain down the iceberg
+* 🌍 **[Reliability Iceberg]()** - An interactive iceberg map of energy reliability. 
 
 ## Previous Projects (⚓️)
 
