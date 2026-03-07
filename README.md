@@ -13,11 +13,15 @@ Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Cap
  
 ## Current Projects (N Shipyard 🚢)
 
-* 🪲 **[Beetlebot](https://github.com/richardsondx/beetlebot)** – Autonomous personal assistant for your free time
+
 * 🧠 **[8nodes](https://8nodes.dev)** – n8n workflow generator for building structured automations fast
 * 🧬 **[Raregap](https://raregap.ai)** – Discover research gaps in rare diseases in minutes
+* 🪲 **[Beetlebot](https://github.com/richardsondx/beetlebot)** – Autonomous personal assistant for your free time
+* ⭕️ **[IronLark](https://github.com/richardsondx/IronLark)** - Lightweight CLI agent that brings AI directly into any SSH session
+* 🔋 **[Lumnia](https://github.com/richardsondx/Lumina)** - Interactive power-grid simulation studio
+* 📈 **[Strategy Tutor]()** - Polymarket strategy AI tutor.
 * 💸 **[Meterwise](https://meterwise.co)** – Track, cap, and optimize AI inference spend
-* 🫀 **[Longevity](https://nshipyard.com)** – Personal health-span tracker with AI coaching
+* 🫀 **[Longevity](https://github.com/richardsondx/longevity)** – Personal health-span tracker with AI coaching
 * 🏋️ **[Fitsona](https://nshipyard.com)** – Generate fitness content and your own AI trainer instantly
 * 🍇 **[Ideagrape](https://ideagrape.com)** – SaaS idea generator and validation engine
 * 📈 **[Driftq](https://nshipyard.com/driftq)** – Crypto trading data API that surfaces market patterns
