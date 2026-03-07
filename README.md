@@ -16,7 +16,10 @@ Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Cap
 
 * 🧠 **[8nodes](https://8nodes.dev)** – n8n workflow generator for building structured automations fast
 * 👥 **[Teamboard](https://teamboard.co)** – A way to bring LLM councils in your threads and canvas
-* 🧬 **[Raregap](https://raregap.ai)** – Discover research gaps in rare diseases in minutes
+* 🔍 **[GitGlance](https://gitglance.co)** – Find developers through deep code contribution analysis
+* 💵 **[DollarBill](https://dollarbill.xyz)** – Extract market narratives from online signals
+* 🎙️ **[AurenLM](https://aurenlm.com)** – Generate podcast-style lessons from a single prompt
+* 📊 **[IndexLens](https://indexlens.app)** – AI-generated thematic investment baskets
 * 🪲 **[Beetlebot](https://github.com/richardsondx/beetlebot)** – Autonomous personal assistant for your free time
 * ⭕️ **[IronLark](https://github.com/richardsondx/IronLark)** - Lightweight CLI agent that brings AI directly into any SSH session
 * 🔋 **[Lumnia](https://github.com/richardsondx/Lumina)** - Interactive power-grid simulation studio
@@ -28,14 +31,10 @@ Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Cap
 * 📈 **[Driftq](https://nshipyard.com/driftq)** – Crypto trading data API that surfaces market patterns
 * ⚡ **[Quickwins](https://nshipyard.com/quickwins)** – AI agent that helps you rank fast on Google
 * 🧱 **[Blockgen](https://nshipyard.com/blockgen)** – Build and monetize custom AI tools in minutes
-* 💵 **[DollarBill](https://dollarbill.xyz)** – Extract market narratives from online signals
-* 📊 **[IndexLens](https://indexlens.app)** – AI-generated thematic investment baskets
 * 🌍 **[Fluentloop](https://fluentloop.co)** – AI flashcards to help you master any language
 * 🎥 **[Gogonichi](https://nshipyard.com/gogonichi)** – Learn vocabulary directly from YouTube content
-* 🎙️ **[AurenLM](https://aurenlm.com)** – Generate podcast-style lessons from a single prompt
 * 👨‍💻 **[Hourandcode](https://hourandcode.com)** – Interactive AI-generated coding courses
 * 🏗️ **[Zonefox](https://nshipyard.com/zonefox)** – Contributor-powered zoning and land-use API
-* 🔍 **[GitGlance](https://gitglance.co)** – Find developers through deep code contribution analysis
 * 🐞 **[Debugprompt](https://debugprompt.com)** – Debugger for AI development workflows
 * 📆 **[Gityears](https://gityears.com)** – Visualize your coding journey year by year
 * 🧩 **[Coordi](https://nshipyard.com/coordi)** – AI COO that manages workflows and operations
@@ -44,6 +43,7 @@ Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Cap
 * 🔥 **[Hook10](https://hook10.co)** – Generate viral LinkedIn hooks in seconds
 * 🎧 **[Podpath](https://nshipyard.com/podpath)** – CRM for podcast guest outreach and tracking
 * 🏡 **[Reeltour](https://reeltour.co)** – AI video tours for real estate listings
+* 🧬 **[Raregap](https://raregap.ai)** – Discover research gaps in rare diseases in minutes
 * ☎️ **[JumpIn](https://jumpin.richdackam.com)** – One-click live call queue management
 * 🎓 **[Skolr](https://nshipyard.com/skolr)** – Batch enrollment engine to increase course conversions
 * 🌦️ **[SeasonSense](https://nshipyard.com/seasonsense)** – AI-powered travel itinerary planner
