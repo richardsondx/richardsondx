@@ -72,7 +72,7 @@ Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Cap
 
 * 📡 Pingonce – Scheduler for automated HTTP requests
 * 🧩 Waterpost – Social media API built for developers
-* 🏠 Zonegoat – Find properties that match local regulations
+* 🏠 [Zonegoat](https://www.youtube.com/watch?v=XO0rpTlLh88) – Find properties that match local regulations
 * ✅ CheckUp – Manage and track product acceptance criteria
 * 🌃 4am – Discover venues open until 4am in Toronto
 * 📝 Markdown Downloader – Chrome extension that converts HTML pages to Markdown
