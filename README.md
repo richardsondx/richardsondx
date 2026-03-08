@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋
 
 Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Captain of endless prototypes. Obsessed with turning problems into prototypes (send help) 😅
 
