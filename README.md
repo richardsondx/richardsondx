@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-Solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Captain of endless prototypes. Obsessed with turning problems into prototypes (send help) 😅
+I'm a solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Captain of endless prototypes. Obsessed with turning problems into prototypes (send help) 😅
 
 - 🤖 Senior AI Engineer in Venture Capital at BoxOne Ventures
 - 🌱 I’m currently diving deep into AI stuff and I share what I learn on my youtube [Codewithrich](https://www.youtube.com/@codewithrich)
