@@ -21,7 +21,7 @@ I'm a solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com)
 * 🎙️ **[AurenLM](https://aurenlm.com)** – Generate podcast-style lessons from a single prompt
 * 📊 **[IndexLens](https://indexlens.app)** – AI-generated thematic investment baskets
 * 🪲 **[Beetlebot](https://github.com/richardsondx/beetlebot)** – Autonomous personal assistant for your free time
-* ⭕️ **[IronLark](https://github.com/richardsondx/IronLark)** - Lightweight CLI agent that brings AI directly into any SSH session
+* 🐦 **[IronLark](https://github.com/richardsondx/IronLark)** - Lightweight CLI agent that brings AI directly into any SSH session
 * 🔋 **[Lumnia](https://github.com/richardsondx/Lumina)** - Interactive power-grid simulation studio
 * 📈 **[Strategy Tutor]()** - Polymarket strategy AI tutor.
 * 💸 **[Meterwise](https://meterwise.co)** – Track, cap, and optimize AI inference spend
