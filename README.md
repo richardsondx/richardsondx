@@ -13,7 +13,7 @@ I'm a solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com)
  
 ## Current Projects (N Shipyard 🚢)
 
-
+* ✉️ **[Mailforce](https://github.com/richardsondx/mailforce)** – zero-trust CLI and MCP server for giving AI agents controlled access to your email
 * 🧠 **[8nodes](https://8nodes.dev)** – n8n workflow generator for building structured automations fast
 * 👥 **[Teamboard](https://teamboard.co)** – A way to bring LLM councils in your threads and canvas
 * 🔍 **[GitGlance](https://gitglance.co)** – Find developers through deep code contribution analysis
