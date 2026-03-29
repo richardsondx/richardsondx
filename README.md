@@ -52,7 +52,7 @@ I'm a solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com)
 * ❤️ **[saas-subscription-helper](https://github.com/richardsondx/saas-subscription-helper)** – Open source helpers for managing SaaS subscriptions
 * 📊 **[usageflow](https://github.com/richardsondx/usageflow)** – Track and model product usage flows for apps
 * 🐞 **[CheckMate](https://github.com/richardsondx/checkmate)** – Open source version of the AI spec verification engine
-* 🔧 **[JSON](https://json.richdackam.com/)** – Simple JSON tools and utilities for fast data formatting and validation
+* 🔧 **[Magical JSON](https://json.richdackam.com/)** – Simple JSON tools and utilities for fast data formatting and validation
 * 🧩 **[SkillAdapter](https://skilladapter.com/)** – Protocol for mapping agent roles to executable skills and tools
 * 🚇 **[Transit](https://transit.richdackam.com/)** – Explore and compare public transit routes and scenarios
 * 💰 **[Million](https://million.richdackam.com/)** – Calculator to plan and reach your financial freedom number
