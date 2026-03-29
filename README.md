@@ -4,15 +4,10 @@ I'm a solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com)
 
 - 🤖 Senior AI Engineer in Venture Capital at BoxOne Ventures
 - 🌱 I’m currently diving deep into AI stuff and I share what I learn on my youtube [Codewithrich](https://www.youtube.com/@codewithrich)
-- 🆓 I'm an Open Source Contributor: [Open Deep Research](https://github.com/nickscamara/open-deep-research)
-- 🔮 I created [Spec Oracles](https://x.com/RichardsonDx/status/1927425733221142778) while working on [CheckMate](https://github.com/richardsondx/checkmate)
-- 💳 I've worked a lot with Stripe API – Here's my [payment integration course](https://richdackam.gumroad.com/l/rdmbm?layout=profile)
-- 🤖 I run AI Founders Club on Skool [AIFC](https://joinaifounders.club/)
-- ❤️ Support my opensource projects : [saas-subscription-helpder](https://github.com/richardsondx/saas-subscription-helper) |  [usage-flow](https://github.com/richardsondx/usageflow) | [CheckMate](https://github.com/richardsondx/checkmate)
+- 🤖 Join my community AI Founders Club on Skool [AIFC](https://joinaifounders.club/)
 - 🚀 Building in public on X [@Richardsondx](https://x.com/RichardsonDx)
  
 ## Current Projects (N Shipyard 🚢)
-
 
 * 🧠 **[NELLM](https://github.com/richardsondx/NELLM)** – Neuro-Endocrine LLM for stateful judgment under ambiguity, pressure, and changing evidence.
 * ✉️ **[Mailforce](https://github.com/richardsondx/mailforce)** – zero-trust CLI and MCP server for giving AI agents controlled access to your email
