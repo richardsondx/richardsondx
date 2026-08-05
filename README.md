@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm a solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Captain of endless prototypes. Obsessed with turning problems into prototypes (send help) 😅
+I'm a solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Admiral of endless ships 🚀. Obsessed with turning problems into prototypes (send help) 😅
 
 - 🌱 I share what I learn here [Codewithrich](https://www.youtube.com/@codewithrich)
 - 🤖 Join my community AI Founders Club on Skool [AIFC](https://joinaifounders.club/)
