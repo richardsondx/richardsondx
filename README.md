@@ -8,6 +8,7 @@ I'm a solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com)
  
 ## Current Projects (N Shipyard 🚢)
 
+* 📞 **[OpenConfer](https://github.com/richardsondx/OpenConfer)** – Human Decision Infrastructure that lets autonomous agents call you, resolve decisions by voice, and continue working with your answer
 * ✉️ **[Mailforce](https://github.com/richardsondx/mailforce)** – zero-trust CLI and MCP server for giving AI agents controlled access to your email
 * 🧠 **[NELLM](https://github.com/richardsondx/NELLM)** – Neuro-Endocrine LLM for stateful judgment under ambiguity, pressure, and changing evidence.
 * 🔀 **[8nodes](https://8nodes.dev)** – n8n workflow generator for building structured automations fast
