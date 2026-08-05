@@ -2,15 +2,14 @@
 
 I'm a solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Captain of endless prototypes. Obsessed with turning problems into prototypes (send help) 😅
 
-- 🤖 Senior AI Engineer in Venture Capital at BoxOne Ventures
-- 🌱 I’m currently diving deep into AI stuff and I share what I learn on my youtube [Codewithrich](https://www.youtube.com/@codewithrich)
+- 🌱 I share what I learn here [Codewithrich](https://www.youtube.com/@codewithrich)
 - 🤖 Join my community AI Founders Club on Skool [AIFC](https://joinaifounders.club/)
 - 🚀 Building in public on X [@Richardsondx](https://x.com/RichardsonDx)
  
 ## Current Projects (N Shipyard 🚢)
 
-* 🧠 **[NELLM](https://github.com/richardsondx/NELLM)** – Neuro-Endocrine LLM for stateful judgment under ambiguity, pressure, and changing evidence.
 * ✉️ **[Mailforce](https://github.com/richardsondx/mailforce)** – zero-trust CLI and MCP server for giving AI agents controlled access to your email
+* 🧠 **[NELLM](https://github.com/richardsondx/NELLM)** – Neuro-Endocrine LLM for stateful judgment under ambiguity, pressure, and changing evidence.
 * 🔀 **[8nodes](https://8nodes.dev)** – n8n workflow generator for building structured automations fast
 * 👥 **[Teamboard](https://teamboard.co)** – A way to bring LLM councils in your threads and canvas
 * 🔍 **[GitGlance](https://gitglance.co)** – Find developers through deep code contribution analysis
