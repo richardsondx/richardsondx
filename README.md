@@ -4,7 +4,6 @@ I'm a solo founder & builder 🚀. Obsessed with turning problems into prototype
 
 - 🚀 Building in public on X [@Richardsondx](https://x.com/RichardsonDx)
 - 🌱 Sharing what I learn here [Codewithrich](https://www.youtube.com/@codewithrich)
-- 🚢 Website [richdackam.com](https://www.richdackam.com)
 - ⛴️ Venture Lab [NShipyard](Nshipyard.com) 
 
  
