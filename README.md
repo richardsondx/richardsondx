@@ -1,14 +1,16 @@
 ## Hello World 👋
 
-I'm a solo founder obsessed with shipping AI stuff at [NShipyard](Nshipyard.com) - Admiral of endless ships 🚀. Obsessed with turning problems into prototypes (send help) 😅
+I'm a solo founder & builder 🚀. Obsessed with turning problems into prototypes (send help) 😅
 
-- 🌱 I share what I learn here [Codewithrich](https://www.youtube.com/@codewithrich)
-- 🤖 Join my community AI Founders Club on Skool [AIFC](https://joinaifounders.club/)
 - 🚀 Building in public on X [@Richardsondx](https://x.com/RichardsonDx)
- 
-## Current Projects (N Shipyard 🚢)
+- 🌱 Sharing what I learn here [Codewithrich](https://www.youtube.com/@codewithrich)
+- 🚢 Website [richdackam.com](https://www.richdackam.com)
+- ⛴️ Venture Lab [NShipyard](Nshipyard.com) 
 
-* 📞 **[OpenConfer](https://github.com/richardsondx/OpenConfer)** – Lets AI agents call you for decisions and keep working
+ 
+## Recent Projects (N Shipyard 🚢)
+* 💸 **[Mandate](https://github.com/richardsondx/mandate)** – Gives AI agents one economic account to earn, hold, move, and spend money across financial providers
+* 📞 **[OpenConfer](https://www.openconfer.com)** – Lets AI agents call you for decisions and keep working
 * ✉️ **[Mailforce](https://github.com/richardsondx/mailforce)** – zero-trust CLI and MCP server for giving AI agents controlled access to your email
 * 🧠 **[NELLM](https://github.com/richardsondx/NELLM)** – Neuro-Endocrine LLM for stateful judgment under ambiguity, pressure, and changing evidence.
 * 🔀 **[8nodes](https://8nodes.dev)** – n8n workflow generator for building structured automations fast
