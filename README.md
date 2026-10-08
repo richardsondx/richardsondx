@@ -8,6 +8,7 @@ I'm a solo founder & builder 🚀. Obsessed with turning problems into prototype
 
  
 ## Recent Projects (N Shipyard 🚢)
+* 🧪 **[agent-eval-ci](https://github.com/richardsondx/agent-eval-ci)** – Tiny YAML eval harness for AI agents: declare expected tools and cost caps, fail CI when the agent misbehaves
 * 🛡️ **[llm-fallback](https://github.com/richardsondx/llm-fallback)** – Provider-agnostic retry + failover for LLM calls, so your app survives provider outages
 * 💸 **[Mandate](https://github.com/richardsondx/mandate)** – Gives AI agents one economic account to earn, hold, move, and spend money across financial providers
 * 📞 **[OpenConfer](https://www.openconfer.com)** – Lets AI agents call you for decisions and keep working
