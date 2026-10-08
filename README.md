@@ -4,10 +4,12 @@ I'm a solo founder & builder 🚀. Obsessed with turning problems into prototype
 
 - 🚀 Building in public on X [@Richardsondx](https://x.com/RichardsonDx)
 - 🌱 Sharing what I learn here [Codewithrich](https://www.youtube.com/@codewithrich)
-- ⛴️ Venture Lab [NShipyard](Nshipyard.com) 
+- ⛴️ Venture Lab [NShipyard](https://Nshipyard.com) ([GitHub org](https://github.com/Nshipyard)) 
 
  
 ## Recent Projects (N Shipyard 🚢)
+* 🛰️ **[earthquery](https://github.com/Nshipyard/earthquery)** – Ask the planet a question: natural-language vector search over satellite imagery embeddings (AlphaEarth + EmbeddingGemma 2)
+* 🌀 **[cyclonewatch](https://github.com/Nshipyard/cyclonewatch)** – Live tropical cyclone risk alerts: official hurricane forecasts turned into transparent 0-100 risk scores for ports, vessels, and any lat/lon
 * 🚪 **[callgate](https://github.com/richardsondx/callgate)** – Pre-execution policy gate for AI agents: allow, deny, or require human approval on every tool call
 * ✅ **[approvalflow](https://github.com/richardsondx/approvalflow)** – Human approval queue for AI agents: approver identity, TTL, delegation, signed decisions, audit trail
 * 📜 **[ground-rules](https://github.com/richardsondx/ground-rules)** – Compile natural-language intent into enforced, validated agent policy
