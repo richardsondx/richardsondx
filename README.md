@@ -8,6 +8,10 @@ I'm a solo founder & builder 🚀. Obsessed with turning problems into prototype
 
  
 ## Recent Projects (N Shipyard 🚢)
+* 🚪 **[callgate](https://github.com/richardsondx/callgate)** – Pre-execution policy gate for AI agents: allow, deny, or require human approval on every tool call
+* ✅ **[approvalflow](https://github.com/richardsondx/approvalflow)** – Human approval queue for AI agents: approver identity, TTL, delegation, signed decisions, audit trail
+* 📜 **[ground-rules](https://github.com/richardsondx/ground-rules)** – Compile natural-language intent into enforced, validated agent policy
+* 💰 **[agent-spendcap](https://github.com/richardsondx/agent-spendcap)** – Budgets and semantic rate limits for AI agents: cap cost, tool calls, and external writes
 * 📡 **[otel-init](https://github.com/richardsondx/otel-init)** – OpenTelemetry in one import: pretty trace waterfall in dev, OTLP in prod
 * 🧪 **[agent-eval-ci](https://github.com/richardsondx/agent-eval-ci)** – Tiny YAML eval harness for AI agents: declare expected tools and cost caps, fail CI when the agent misbehaves
 * 🛡️ **[llm-fallback](https://github.com/richardsondx/llm-fallback)** – Provider-agnostic retry + failover for LLM calls, so your app survives provider outages
