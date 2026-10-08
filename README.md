@@ -8,6 +8,7 @@ I'm a solo founder & builder 🚀. Obsessed with turning problems into prototype
 
  
 ## Recent Projects (N Shipyard 🚢)
+* 🛡️ **[llm-fallback](https://github.com/richardsondx/llm-fallback)** – Provider-agnostic retry + failover for LLM calls, so your app survives provider outages
 * 💸 **[Mandate](https://github.com/richardsondx/mandate)** – Gives AI agents one economic account to earn, hold, move, and spend money across financial providers
 * 📞 **[OpenConfer](https://www.openconfer.com)** – Lets AI agents call you for decisions and keep working
 * ✉️ **[Mailforce](https://github.com/richardsondx/mailforce)** – zero-trust CLI and MCP server for giving AI agents controlled access to your email
