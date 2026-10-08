@@ -68,8 +68,10 @@ I'm a solo founder & builder 🚀. Obsessed with turning problems into prototype
 * 💳 **[Debt](https://debt.richdackam.com/)** – Model and optimize debt repayment strategies
 * 📉 **[DCA](https://dca.richdackam.com/)** – Dollar-cost averaging simulator for long-term investing
 * 🎯 **[Choices](https://choices.richdackam.com/)** – Decision calculator for comparing life and financial trade-offs
+* 📈 **[Optionlab](http://option.richdackam.com/)** – Options trading, one little "aha" at a time
 * ⚡ **[IronCloud](https://ironcloud.richdackam.com/)** – Model compute, energy, and infrastructure trade-offs for AI systems
 * 🔋 **[Energy](https://energy.richdackam.com/)** – Explore energy systems, costs, and infrastructure scenarios
+* 🏭 **[Industrial Revolution Atlas](http://industrial.richdackam.com/)** – Interactive atlas of how 196 countries industrialized: energy paths, momentum cases, and the 4,000 kWh per person line
 * 🌍 **[Institution Iceberg]()** - Select a visible symptom of underdevelopment it traces the causal chain down the iceberg
 * 🌍 **[Reliability Iceberg]()** - An interactive iceberg map of energy reliability. 
 
