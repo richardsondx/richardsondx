@@ -8,6 +8,7 @@ I'm a solo founder & builder 🚀. Obsessed with turning problems into prototype
 
  
 ## Recent Projects (N Shipyard 🚢)
+* 📊 **[CRED](https://github.com/Nshipyard/CRED)** – Canadian Research Economic Data: a Canadian FRED, searchable, chartable, shareable macro data from StatCan and the Bank of Canada
 * ⛰️ **[hazardlens](https://github.com/Nshipyard/hazardlens)** – Hazard data factory: global news turned into structured, queryable open datasets of under-observed hazard events, starting with landslides
 * 🛰️ **[earthquery](https://github.com/Nshipyard/earthquery)** – Ask the planet a question: natural-language vector search over satellite imagery embeddings (AlphaEarth + EmbeddingGemma 2)
 * 🌀 **[cyclonewatch](https://github.com/Nshipyard/cyclonewatch)** – Live tropical cyclone risk alerts: official hurricane forecasts turned into transparent 0-100 risk scores for ports, vessels, and any lat/lon
