@@ -8,6 +8,8 @@ I'm a solo founder & builder 🚀. Obsessed with turning problems into prototype
 
  
 ## Recent Projects (N Shipyard 🚢)
+* ⛽ **[TokenFuel](https://github.com/richardsondx/tokenfuel)** – Turn community support into AI compute: project pages where supporters fund a builder’s API credit ([live](https://tkfuel.com))
+* 📮 **[Dispatch](https://github.com/richardsondx/dispatch)** – Newsletter infrastructure for AI agents: one API call gives an agent its own publication with signup forms, double opt-in, scheduled sends, and analytics ([live](https://dispatch.nshipyard.com))
 * 📊 **[CRED](https://github.com/Nshipyard/CRED)** – Canadian Research Economic Data: a Canadian FRED, searchable, chartable, shareable macro data from StatCan and the Bank of Canada
 * ⛰️ **[hazardlens](https://github.com/Nshipyard/hazardlens)** – Hazard data factory: global news turned into structured, queryable open datasets of under-observed hazard events, starting with landslides
 * 🛰️ **[earthquery](https://github.com/Nshipyard/earthquery)** – Ask the planet a question: natural-language vector search over satellite imagery embeddings (AlphaEarth + EmbeddingGemma 2)
