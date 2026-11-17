@@ -14,12 +14,6 @@ I'm a solo founder & builder 🚀. Obsessed with turning problems into prototype
 * 📦 **[canada-post-mcp](https://github.com/richardsondx/canada-post-mcp)** – UNOFFICIAL Canada Post MCP server: parcel tracking, shipping rates, post office finder, and MyMail (local only).
 * 📺 **[drive-to-youtube](https://github.com/richardsondx/drive-to-youtube)** – Upload a video from Google Drive (or a local file) to YouTube from the command line. Resumable upload, metadata, thumbnail, playlist, schedule.
 * 🦙 **[ollamapaca](https://github.com/richardsondx/ollamapaca)** – Ollamapaca, Ollama with plugins and skills. Open models using browser, computer, and skill plugins, locally.
-* 🎬 **[headless-motion](https://github.com/richardsondx/headless-motion)** – Motion graphics from JSON scenes: an AI agent writes the scene, the engine renders the video, and a checker scores every frame
-* 🤝 **[handover](https://github.com/richardsondx/handover)** – Turns a rough prompt into a full plan and orchestration, then runs with full autonomy inside the approved envelope
-* 🦙 **[ollamapaca](https://github.com/richardsondx/ollamapaca)** – Ollama with plugins and skills: open models using browser, computer, and skill plugins, locally
-* 👥 **[OpenPresence](https://github.com/richardsondx/OpenPresence)** – Social intelligence for your AI agent: audience strategy, your voice, relationships, and evidence-backed learning through MCP and CLI
-* 📦 **[canada-post-mcp](https://github.com/richardsondx/canada-post-mcp)** – Unofficial Canada Post MCP server: parcel tracking, shipping rates, post office finder, and MyMail (local only)
-* 📺 **[drive-to-youtube](https://github.com/richardsondx/drive-to-youtube)** – Upload a video from Google Drive (or a local file) to YouTube from the command line, with resumable upload, metadata, thumbnail, playlist, and schedule
 * ⛽ **[TokenFuel](https://github.com/richardsondx/tokenfuel)** – Turn community support into AI compute: project pages where supporters fund a builder’s API credit ([live](https://tkfuel.com))
 * 📮 **[Dispatch](https://github.com/richardsondx/dispatch)** – Newsletter infrastructure for AI agents: one API call gives an agent its own publication with signup forms, double opt-in, scheduled sends, and analytics ([live](https://dispatch.nshipyard.com))
 * 📊 **[CRED](https://github.com/Nshipyard/CRED)** – Canadian Research Economic Data: a Canadian FRED, searchable, chartable, shareable macro data from StatCan and the Bank of Canada
