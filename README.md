@@ -8,6 +8,7 @@ I'm a solo founder & builder 🚀. Obsessed with turning problems into prototype
 
  
 ## Recent Projects (N Shipyard 🚢)
+* 🤖 **[WorldLoop](https://worldloop.tech)** – The practice world for physical AI: film the situation, rebuild it 1,000 ways in simulation, and prove pass or fail before the robot ships
 * 🤝 **[handover](https://github.com/richardsondx/handover)** – Turn a rough prompt into a full plan and orchestration, approve once up front, then it runs with full autonomy inside the approved envelope.
 * 🎬 **[headless-motion](https://github.com/richardsondx/headless-motion)** – Motion graphics from JSON scenes: an AI agent writes the scene, the engine renders the video, and a checker scores every frame.
 * 🌐 **[openpresence](https://github.com/richardsondx/OpenPresence)** – Social intelligence for your AI agent: audience strategy, your voice, relationships, and evidence-backed learning through MCP and CLI.
